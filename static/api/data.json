@@ -36,7 +36,7 @@
             "awardrecived": "15",
             "happyclinet": "100"
         },
-        "resumedownload": "https://drive.google.com/file/d/1HuLXxOB6dL58AcupKZ9qhRr7739EXLML/view",
+        "resumedownload": "https://drive.google.com/file/d/1EvtAqKqdMqlSWrjIsw7IB1UIpOkwo_5x/view?usp=sharing",
         "social": [
             {
                 "name": "github",
@@ -107,23 +107,36 @@
         ]
     },
     "portfolio": {
-        "projects": [{
+        "projects": [
+            {
                 "no":"01",
-                "title": "",
-                "description": "Lorem ipsum dolor sit amet sed consectetur adipisicing elit. doloret quas saepe autem, dolor set.",
-                "url": "https://www.youtube.com/watch?v=0feY896TmH4"
+                "title": "Edge AI Project",
+                "description": "Designed a Free parking slot counter that can operate on STM32 microcontrollers By leveraging the TinyML library and Tensorflow Lite.",
+                "url": ""
+            },
+            {
+                "no":"01",
+                "title": "Sparse Convolution Pytorch",
+                "description": "Contributed to the Open source Escoin-caffe sparse convolution implementation by engegnering a pytorch porting.",
+                "url": "https://github.com/NicolaDean/sparse-conv-pytorch-porting"
+            },
+            {
+                "no":"01",
+                "title": "Insulink",
+                "description": "Developed React Native App to improve diabetic people experience in tracking blood sugar level, meals, sport and allow them calculating insulin units to get.",
+                "url": "https://linktr.ee/NicolaDean"
             },
             {
                 "no":"02",
-                "title": "Prothom alo clone",
-                "description": "Lorem ipsum dolor sit amet sed consectetur adipisicing elit. doloret quas saepe autem, dolor set.",
-                "url": "https://www.youtube.com/watch?v=7pRx_hiXxwg&t=30s"
+                "title": "Caliper-gpu",
+                "description": "The Caliper framework has been enhanced through the development of a CUDA version, resulting in a remarkable 72x speedup in computing the MTTF (Mean Time To Failure) of a multicore homogeneous grid of cores.",
+                "url": "https://github.com/D4De/caliper-gpu"
             },
             {
                 "no":"03",
-                "title": "Chaldal Clone",
-                "description": "Lorem ipsum dolor sit amet sed consectetur adipisicing elit. doloret quas saepe autem, dolor set.",
-                "url": "https://www.youtube.com/watch?v=PDvlbujWmIs&t=3s"
+                "title": "Vulkan Render Engine",
+                "description": "DIY 3D Render Engine written in C++ and Vulkan for the Computer Graphic course.",
+                "url": "https://github.com/NicolaDean/Vulkan-Game-Engine"
             }
         ]
     },
