@@ -1,24 +1,24 @@
 {
     "main": {
-        "name": "Baizid MD Ashadzzaman",
-        "shortname": "Zaman",
-        "occupation": "Developer / Programmer / Engineer",
+        "name": "Nicola Dean",
+        "shortname": "Nico",
+        "occupation": "Machine Learning / Software - Engineer",
         "description": "Eat, sleep, code, repeat.",
         "yearofexperience": "05",
-        "age": "25",
-        "designation": "Software engineer",
-        "image": "/images/photo.png",
-        "fullimage": "/images/myphoto1.jpg",
-        "bio": "Hi there! I have been very passionate about computers and programming since my university life. I dream to be an expert software engineer so that I can build professional and useful software that has business value. I am looking for a junior software engineer position in a reputed software company that can help me to achieve my goal.",
+        "age": "24",
+        "designation": "Machine Learning engineer",
+        "image": "/images/my-portrait2.jpg",
+        "fullimage": "/images/my-portrait2.jpg",
+        "bio": "Hi there! I have been very passionate about computers and programming since my university life. During my journey I discovered Machine Learning and it has been love at first sight. With a curiosity that knows no bounds, I am eager to explore the depths of this field, unraveling its mysteries and pushing boundaries. I aspire to join a reputed software company where I can contribute to cutting-edge projects, fueling my passion and curiosity along the way. Let's embark on this exciting journey together!",
         "contactmessage": "Get in touch with me to to build any software for your business.!",
-        "email": "baizid.md.ashadzzaman@gmail.com",
-        "phone": "+88 01862420119",
-        "mapaddress": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3690.6698920746726!2d91.8166201143615!3d22.328320947520915!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x30acd8b3c659a4fb%3A0xcf4c00425d483eb6!2s12%20Quarter%20Ln%2C%20Chittagong!5e0!3m2!1sen!2sbd!4v1631249930628!5m2!1sen!2sbd",
+        "email": "nicola.dean@outlook.it",
+        "phone": "+366 3570622",
+        "mapaddress": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2798.320253515026!2d9.20063057515788!3d45.46335227107389!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4786c6a3a4dc0477%3A0x74ecb80bf31b1981!2sVia%20Filippo%20Corridoni%2C%2022%2C%2020122%20Milano%20MI!5e0!3m2!1sit!2sit!4v1684878017530!5m2!1sit!2sit",
         "address": {
-            "street": "Pahartoli 12 quater",
-            "city": "Chittagong",
-            "state": "Bangladesh",
-            "zip": "4202"
+            "street": "Via Filippo Corridoni 22",
+            "city": "Milan",
+            "state": "Italy",
+            "zip": "20122"
         },
         "quotes1": {
             "sectiontitle": "My resume",
@@ -37,10 +37,16 @@
             "happyclinet": "100"
         },
         "resumedownload": "https://drive.google.com/file/d/1HuLXxOB6dL58AcupKZ9qhRr7739EXLML/view",
-        "social": [{
-                "name": "youtube",
-                "url": "https://www.youtube.com/channel/UCGP5kbtnscx5uTN5suCZfMA?view_as=subscriber",
-                "className": "fa fa-youtube"
+        "social": [
+            {
+                "name": "github",
+                "url": "https://github.com/NicolaDean",
+                "className": "fa fa-github"
+            },
+            {
+                "name": "linkedin",
+                "url": "https://www.linkedin.com/in/nicola-dean-67b142172",
+                "className": "fa fa-linkedin"
             },
             {
                 "name": "facebook",
@@ -48,64 +54,62 @@
                 "className": "fa fa-facebook"
             },
             {
-                "name": "linkedin",
-                "url": "https://www.linkedin.com/in/zamanasad/",
-                "className": "fa fa-linkedin"
-            },
-            {
                 "name": "instagram",
                 "url": "https://www.instagram.com/iamasadzaman/",
                 "className": "fa fa-instagram"
-            },
-            {
-                "name": "github",
-                "url": "https://github.com/Baizidmdashadzzaman",
-                "className": "fa fa-github"
             }
+            
         ]
     },
     "resume": {
         "skillmessage": "My Programming Language Proficiency",
-        "education": [{
-            "school": "International Islamic University Chittagong.",
-            "degree": "Bachelor's Degree, Computer Science",
-            "graduated": "July 2018",
-            "description": "Graduated with First Class Honours"
-        }],
+        "education": [
+            {
+                "school": "Politecnico di Milano.",
+                "degree": "Master's Degree, Computer Science",
+                "graduated": "October 2023",
+                "description": "Specialized in Machine Learning and Hardware Accelerator"
+            },
+            {
+                "school": "Politecnico di Milano.",
+                "degree": "Bachelor's Degree, Computer Science",
+                "graduated": "July 2021"
+            }
+        ],
         "work": [{
-            "company": "Scandicsoft",
-            "title": "Software engineer",
-            "years": "Jan 2018 - Present",
-            "description": "Developing some userfriendly and best software."
+            "company": "Politecnico",
+            "title": "Flutter Tutor",
+            "years": "Dec 2022 - Jul 2022",
+            "description": "Providing personalized support, feedback, and mentorship to the students helping them developing their Flutter skills and professional growth"
         }],
         "skillssectiontitle":"Motivated by the Desire to achieve Success",
         "skillssectiondescription":"Lorem, ipsum dolor sit amet consectetur adipisicing elit. Dolorem, odit! Perspiciatis et consequuntur non, modi quo mollitia labore laborum voluptas quia officiis fugit soluta molestias quaerat sapiente sunt. ",
         "skills": [{
-                "name": "Php",
+                "name": "C++ / C / Firmware",
                 "level": "90%"
             },
             {
                 "name": "Python",
+                "level": "95%"
+            },
+            {
+                "name": "Tensorflow - Pytorch - Keras",
+                "level": "90%"
+            },
+            {
+                "name": "React - Flutter",
                 "level": "60%"
             },
             {
-                "name": "Vue",
+                "name": "Java - SQL -",
                 "level": "70%"
-            },
-            {
-                "name": "React",
-                "level": "50%"
-            },
-            {
-                "name": "Web Development",
-                "level": "95%"
             }
         ]
     },
     "portfolio": {
         "projects": [{
                 "no":"01",
-                "title": "RMS with AR",
+                "title": "",
                 "description": "Lorem ipsum dolor sit amet sed consectetur adipisicing elit. doloret quas saepe autem, dolor set.",
                 "url": "https://www.youtube.com/watch?v=0feY896TmH4"
             },
@@ -140,17 +144,17 @@
         "services": [
             {
                 "no": "01",
-                "title": "UI/UX Design",
-                "description": "Lorem ipsum dolor sit amet sed consectetur adipisicing elit. doloret quas saepe autem, dolor set."
+                "title": "Machine Learning Engineering",
+                "description": "I can design machine learning systems with expertise and precision. Let's create innovative solutions together!."
             },
             {
                 "no": "02",
-                "title": "Web Design",
-                "description": "Lorem ipsum dolor sit amet sed consectetur adipisicing elit. doloret quas saepe autem, dolor set."
+                "title": "Embedded - Firmware Development",
+                "description": "I have extensive experience in firmware development using C++ and CUDA, enabling efficient and high-performance computing. Let's unlock new possibilities together"
             },
             {
                 "no": "03",
-                "title": "Web Development",
+                "title": "Software Engineering",
                 "description": "Lorem ipsum dolor sit amet sed consectetur adipisicing elit. doloret quas saepe autem, dolor set."
             }
         ]
