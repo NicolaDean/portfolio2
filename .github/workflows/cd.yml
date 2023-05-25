@@ -26,5 +26,5 @@ jobs:
       - name: Generate
         run: yarn run build
 
-      - name: Generate
-        run: yarn run deploy
+      - name: Deploy
+        run: yarn deploy
