@@ -23,12 +23,12 @@
         "quotes1": {
             "sectiontitle": "My resume",
             "title": "I Would Love to make your Ideas real",
-            "description": "I love graphic design and photography and have been working on my portfolio since 2016. You can download my resume in order to learn the details of my professional life as a designer and photographer. Contact me and we will discuss your projects!"
+            "description": "I am an AI enthusiast with a great passion for coding since the age of 12. Contact me and we will discuss your projects!"
         },
         "quotes2": {
             "sectiontitle": "",
             "title": "I can give your business a new creative start right away! Hire me for your Awesome project",
-            "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. At, corrupti odit? At iure facere, porro repellat officia quas, dolores magnam assumenda soluta odit harum voluptate inventore ipsa maiores fugiat accusamus eos nulla. Iure voluptatibus explicabo officia."
+            "description": ""
         },
         "workabout": {
             "completedproject": "100",
@@ -36,7 +36,7 @@
             "awardrecived": "15",
             "happyclinet": "100"
         },
-        "resumedownload": "https://drive.google.com/file/d/1EvtAqKqdMqlSWrjIsw7IB1UIpOkwo_5x/view?usp=sharing",
+        "resumedownload": "https://drive.google.com/file/d/1p8XNZs0LNbVCsZ-0Y0MG9WzARv9qbsTv/view?usp=sharing",
         "social": [
             {
                 "name": "github",
@@ -49,13 +49,8 @@
                 "className": "fa fa-linkedin"
             },
             {
-                "name": "facebook",
-                "url": "https://www.facebook.com/asadzaman0167",
-                "className": "fa fa-facebook"
-            },
-            {
                 "name": "instagram",
-                "url": "https://www.instagram.com/iamasadzaman/",
+                "url": "https://www.instagram.com/nicoladean99/",
                 "className": "fa fa-instagram"
             }
             
@@ -80,10 +75,18 @@
             "company": "Politecnico",
             "title": "Flutter Tutor",
             "years": "Dec 2022 - Jul 2022",
-            "description": "Providing personalized support, feedback, and mentorship to the students helping them developing their Flutter skills and professional growth"
-        }],
+            "description": "As a tutor in the course ”Do an App” held by Policollege my impact was twofold: Assisting Teacher during the lectures and providing personalized support, feedback, and mentorship to the students helping them developing their Flutter skills and professional growth."
+        },
+        {
+            "company": "Eurotech",
+            "title": "Software Engineering Intern",
+            "years": "Aug 2018 - Jul 2021",
+            "description": "Cooperated with an employee to improve their Smart Camera product using Computer Vision techniques, such as OpenCV, for accurately counting persons on public transport services."
+        }
+    
+    ],
         "skillssectiontitle":"Motivated by the Desire to achieve Success",
-        "skillssectiondescription":"Lorem, ipsum dolor sit amet consectetur adipisicing elit. Dolorem, odit! Perspiciatis et consequuntur non, modi quo mollitia labore laborum voluptas quia officiis fugit soluta molestias quaerat sapiente sunt. ",
+        "skillssectiondescription":" I am a Code Machine Gun and an AI enthusiast. Feel free to check all my projects on my github page [https://github.com/NicolaDean] ",
         "skills": [{
                 "name": "C++ / C / Firmware",
                 "level": "90%"
