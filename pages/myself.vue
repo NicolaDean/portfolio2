@@ -194,31 +194,6 @@
     </div>
 </section>
 
-<section class="w3l-services">
-    <div class="w3l-achievements py-5" id="services">
-        <div class="container py-lg-5">
-            <h5 class="title-small text-center">My achievements</h5>
-            <h3 class="title-big text-center mb-sm-5 mb-4">Personal Awards</h3>
-            <div class="row">
-                
-                <div class="col-lg-6 item" v-for="awward in data.awwards.awwards" v-bind:key="awward">
-                    <div class="card">
-                        <div class="box-wrap">
-                            <div class="icon">
-                                <span class="fa fa-trophy"></span>
-                            </div>
-                            <h4><a href="">{{awward.title}}</a></h4>
-                            <p>{{awward.description}}</p>
-                        </div>
-                    </div>
-                </div>
-
-                
-
-            </div>
-        </div>
-    </div>
-</section>
 
 
 
