@@ -15,7 +15,7 @@ export default {
       },
     ],
     link: [
-	{ rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' },
+	{ rel: 'icon', type: 'image/x-icon', href: '/pc.ico' },
 	{ rel: "stylesheet", href: "http://fonts.googleapis.com/css2?family=Jost:wght@300;400;600&display=swap"},
 	{ rel: "stylesheet", href: "/resources/assets/css/style-starter.css"},
 

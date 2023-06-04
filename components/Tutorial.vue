@@ -4,7 +4,7 @@
     <link href="https://unpkg.com/tailwindcss@^2/dist/tailwind.min.css" rel="stylesheet">
     <div class="max-w-4xl mx-auto sm:px-6 lg:px-8">
       <a class="flex justify-center " href="https://nuxtjs.org" target="_blank">
-        <img src="/favicon.ico" style="width:150px">
+        <img src="/favicon2.jpg" style="width:150px">
       </a>
       <div class="mt-8 bg-white overflow-hidden shadow sm:rounded-lg p-6">
         <h2 class="text-2xl leading-7 font-semibold">
